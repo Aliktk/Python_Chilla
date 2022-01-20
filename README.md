@@ -6,5 +6,6 @@ Fall 2022 8-week course
 Jan 2022 40-days course
 Materials in the repos may be freely used; links to open the notebooks in Google Colab (a cloud-based coding environment) are provided. 
 Materials developed by:
+
 **Ali Nawaz**
 **Artificial Intelliegence Engineer at XYLEXA**
