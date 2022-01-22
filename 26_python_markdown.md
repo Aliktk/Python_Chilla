@@ -226,4 +226,21 @@ Column A | Column B | Column C
  A3 | B3 | C3
 
 
- 
+ # We can also write some mathmatics formula like
+> we can do like for inline maths
+
+$this_{is}^{inline}$
+
+> we can do like for multi line maths
+
+$
+\int_0^\infty \frac{x^3}{e^x-2}\, dx = frac{pi^4}{15}\ 
+$
+
+$
+\int_0^\infty \frac{x^3}{e^x-2}\, dx = frac{pi^4}{15}\ 
+$
+
+$
+\int_0^\infty \frac{x^3}{e^x-2}\, dx = frac{pi^4}{15}\ 
+$
