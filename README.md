@@ -1,10 +1,10 @@
 # Python_Chilla
 
 # Student Detials
-Title= "Mr"
-Name= "Ali Nawaz"
-email = "nawazktk99@gmail.com"
-whatsapp = "03358043653"
+Title= "Mr"\
+Name= "Ali Nawaz"\
+email = "nawazktk99@gmail.com"\
+whatsapp = "03358043653"\
 
 
 This repository contains practice materials on Python, used to deliver online training course.
