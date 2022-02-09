@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 import math
 
-image = cv2.imread("1.jpg")
+image = cv2.imread("img.jpg")
 original = image.copy()
 hsv = cv2.cvtColor(image, cv2.COLOR_BGR2HSV)
 
