@@ -37,7 +37,7 @@ The course Started on 1st of New year 2022, Saturday Night on 9.30pm.
 2. Jan 2022 40-days course
 3. **Note:** The Week will be 5 Days in this Chilla
 
-|Week | Room | Topic|
+|Week | Class Via | Topic|
 |----|----|----|
 |**[Week 1](https://github.com/Aliktk/Python_Chilla/tree/main/Python_hands_on)**| Zoom |  Installation of VS Code, First Line of code, Libraries, Python syntax, intro to control flow including Weekly Workshop. |
 |**[Week 2](https://github.com/Aliktk/Python_Chilla/tree/main/graphs)** | Zoom | Ploting, Graphs, Data aquired, Students data, Different graphs ploting including Weekly Workshop on Github(pro). |
