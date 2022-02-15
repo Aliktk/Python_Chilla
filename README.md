@@ -48,9 +48,9 @@ The course Started on 1st of New year 2022, Saturday Night on 9.30pm.
 |**[Week 7](https://github.com/Aliktk/Python_Chilla/tree/main/cv_with_python_using%20opencv)**| Zoom | Basic OpenCv, Market Yourself, Interview Prepartion, Canva. |
 |**[Week 8]()**| Zoom | Final Resolution of the End Day and Gup Shup :) |
 
-Materials in the repos may be freely by frok method.
-This Repo will be refine with time.
-Materials developed by:
++ Materials in the repos may be freely by frok method.
++ This Repo will be refine with time.
++ Materials developed by:
 
 **Ali Nawaz**
 
