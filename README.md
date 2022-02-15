@@ -2,11 +2,13 @@
 ## Python for Data Science
 
 # Student Details
-+ Title= "Mr"
-+ Name= "Ali Nawaz"
-+ email = "nawazktk99@gmail.com"
-+ Artificial Intelliegence Engineer at XYLEXA
-+ **Resources:** [YouTube Link](https://www.youtube.com/watch?v=QvPekMN4F0w&list=PL9XvIvvVL50HVsu-Ao8NBr0UJSO8O6lBI&ab_channel=Codanics)
++ Title : "Mr"
++ Name : "Ali Nawaz"
++ email : "nawazktk99@gmail.com"
++ Research Profile : [Research Gate](https://www.researchgate.net/profile/Ali-Nawaz-14),  [Google Scholar](https://scholar.google.com.br/citations?hl=en&user=oFzPPSMAAAAJ)
++ Artificial Intelliegence Engineer at [XYLEXA](https://www.xylexa.com)
++ **Resources :** [YouTube Link](https://www.youtube.com/watch?v=QvPekMN4F0w&list=PL9XvIvvVL50HVsu-Ao8NBr0UJSO8O6lBI&ab_channel=Codanics)
++ Instructor : Dr. Muhammad Ammar Tufail
 
 # Overview
 This repository contains practice materials on Python, used to deliver online training course. The course was sponsered by **[codenics](http://codanics.com/)** and **[Scholership Network](https://www.facebook.com/groups/scholarships.pk/)**. **Pakistan**
