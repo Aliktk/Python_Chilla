@@ -12,7 +12,10 @@
 This repository contains practice materials on Python, used to deliver online training course. The course was sponsered by **[codenics](http://codanics.com/)** and **[Scholership Network](https://www.facebook.com/groups/scholarships.pk/)**. **Pakistan**
 This course is for everyone who want to make their carrer/graphs/scientific Publication Chart in data science. The instructor was Dr. Ammar Tufail.
 
-__Objectives__: (i) Expand the cohort Students with intermediate-level Python skills; (ii) contribute to quality of Data Scienctist  Resources in Pakistan; and (iii) Non computer back ground can expand the graphs/chart for their publication using code and libraries.
+__Objectives__: 
+  1. Expand the cohort Students with intermediate-level Python skills; 
+  2. contribute to quality of Data Scientist  Resources in Pakistan; and 
+  3. Non computer back ground can expand the graphs/chart for their publication using code and libraries.
 
 __Prerequisites and format__: No prior coding experience is needed. The sessions will comprise short lecture-style teaching by the instructor, Interactive session and assignmnets session where every participants write code on their own laptops and show thier output.
 
