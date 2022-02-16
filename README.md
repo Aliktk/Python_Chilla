@@ -32,17 +32,23 @@ Two methods:
 * _Preferred method:_ Install Anaconda Navigator from the software catalogue on eServices. Download the scripts (or clone the repository with Git) and load the notebooks (.ipynb files) in Jupyter Notebooks on your laptop.
 * _Preferred method:_ After cloning open the terminal and run the below command if you are able to do it. Other wise install it manually.
 
+**How To Make Vir-Enviroment using conda**
+```python
+conda create -n python-chilla python=3.6
+conda activate python-chilla
+```
+Install the required libraries by using folllowing commands.
 ```python
 pip install -r /path/to/requirements.txt
 ```
 
-# Schedule
+# Course Schedule
 The course Started on 1st of New year 2022, Saturday Night on 9.30pm.
 1. Fall 2022 8-week course
 2. Jan 2022 40-days course
 3. **Note:** The Week will be 5 Days in this Chilla
 
-|Week | Class Via | Topic|
+|Week | Mode | Topics|
 |----|----|----|
 |**[Week 1](https://github.com/Aliktk/Python_Chilla/tree/main/Python_hands_on)**| Zoom |  Installation of VS Code, First Line of code, Libraries, Python syntax, intro to control flow including Weekly Workshop. |
 |**[Week 2](https://github.com/Aliktk/Python_Chilla/tree/main/graphs)** | Zoom | Ploting, Graphs, Data aquired, Students data, Different graphs ploting including Weekly Workshop on Github(pro). |
@@ -53,10 +59,15 @@ The course Started on 1st of New year 2022, Saturday Night on 9.30pm.
 |**[Week 7](https://github.com/Aliktk/Python_Chilla/tree/main/cv_with_python_using%20opencv)**| Zoom | Basic OpenCv, Market Yourself, Interview Prepartion, Canva. |
 |**[Week 8]()**| Zoom | Final Resolution of the End Day and Gup Shup :) |
 
-+ Materials in the repos may be freely by frok method.
++ Materials in the repos can be freely with credit and giving start and fork operation.
 + This Repo will be refine with time.
-+ Materials developed by:
 
-**Ali Nawaz**
+
+-------------------------
+#### **Materials developed by**
+> **Ali Nawaz**
+
+-------------------------
+
 
 
