@@ -5,8 +5,9 @@
 + Title : "Mr"
 + Name : "Ali Nawaz"
 + email : "nawazktk99@gmail.com"
++ Website: [alinawaz.com](https://aliktk.github.io/alinawaz.github.io/)
 + Research Profile : [Research Gate](https://www.researchgate.net/profile/Ali-Nawaz-14),  [Google Scholar](https://scholar.google.com.br/citations?hl=en&user=oFzPPSMAAAAJ)
-+ Artificial Intelliegence Engineer at [XYLEXA](https://www.xylexa.com)
++ Artificial Intelliegence Engineer at [Horizon Tec Services](https://www.horizon.com.pk/)
 + **Resources :** [YouTube Link](https://www.youtube.com/watch?v=QvPekMN4F0w&list=PL9XvIvvVL50HVsu-Ao8NBr0UJSO8O6lBI&ab_channel=Codanics)
 + Instructor : Dr. Muhammad Ammar Tufail
 
