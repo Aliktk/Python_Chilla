@@ -1,74 +1,50 @@
-# Python_Chilla_with_Baba_Aammar
-## Python for Data Science
+# Python Chilla: Python for Data Science
 
-# Student Details
-+ Title : "Mr"
-+ Name : "Ali Nawaz"
-+ email : "nawazktk99@gmail.com"
-+ Website: [alinawaz.com](https://aliktk.github.io/alinawaz.github.io/)
-+ Research Profile : [Research Gate](https://www.researchgate.net/profile/Ali-Nawaz-14),  [Google Scholar](https://scholar.google.com.br/citations?hl=en&user=oFzPPSMAAAAJ)
-+ Artificial Intelliegence Engineer at [Horizon Tec Services](https://www.horizon.com.pk/)
-+ **Resources :** [YouTube Link](https://www.youtube.com/watch?v=QvPekMN4F0w&list=PL9XvIvvVL50HVsu-Ao8NBr0UJSO8O6lBI&ab_channel=Codanics)
-+ Instructor : Dr. Muhammad Ammar Tufail
+Code, notebooks, datasets and assignments from the 40-day **Python Chilla** (Jan 2022), a free online Python for data science course run by [Codanics](https://codanics.com/) with [Scholarship Network Pakistan](https://www.facebook.com/groups/scholarships.pk/) and taught by **Dr. Muhammad Ammar Tufail**.
 
-# Overview
-This repository contains practice materials on Python, used to deliver online training course. The course was sponsered by **[codenics](http://codanics.com/)** and **[Scholership Network](https://www.facebook.com/groups/scholarships.pk/)**. **Pakistan**
-This course is for everyone who want to make their carrer/graphs/scientific Publication Chart in data science. The instructor was Dr. Ammar Tufail.
+I took the course and kept everything here, from my first line of Python to the machine learning assignments. I've since organized it so anyone can work through it on their own. You don't need any coding background to start.
 
-__Objectives__: 
-  1. Expand the cohort Students with intermediate-level Python skills; 
-  2. contribute to quality of Data Scientist  Resources in Pakistan; and 
-  3. Non computer back ground can expand the graphs/chart for their publication using code and libraries.
+- Course videos (Urdu/Hindi): [YouTube playlist](https://www.youtube.com/watch?v=QvPekMN4F0w&list=PL9XvIvvVL50HVsu-Ao8NBr0UJSO8O6lBI)
+- Maintained by: [Ali Nawaz](https://aliktk.github.io/alinawaz.github.io/) ([Google Scholar](https://scholar.google.com.br/citations?hl=en&user=oFzPPSMAAAAJ), [ResearchGate](https://www.researchgate.net/profile/Ali-Nawaz-14))
 
-__Prerequisites and format__: No prior coding experience is needed. The sessions will comprise short lecture-style teaching by the instructor, Interactive session and assignmnets session where every participants write code on their own laptops and show thier output.
+## Who this is for
 
-__Participant outcomes__: With no coding knowledge before the course, participants should be able to access and combine a diverse set of datasets, conduct data exploration and visualization, utilize Python libraries for demographic, image data and machine learning, and be able to self-teach next steps in their specialized domain.
+Students, researchers and anyone from a non-CS background who wants to load real data, explore it, plot it for a report or paper, and train basic ML models. Most examples use small local datasets such as course survey data, Titanic, salary data and FAO crop production for Pakistan and India.
 
-# Project work
-To gain credit, participants are required to submit a complete set of assignments, notebooks compiled in one file or should be in detailed projects groups. The format is a Jupyter Notebook/PDF. The notebook should ingest, analyze and visualize data using Python, to address the real understaing of the students and need of the participant's.
+## How to go through it
 
-# Running the scripts
-Two methods:
-* _Beginner method:_ Click the links to 'open notebook in Colab.' (no software installation required)
-* _Preferred method:_ Install Anaconda Navigator from the software catalogue on eServices. Download the scripts (or clone the repository with Git) and load the notebooks (.ipynb files) in Jupyter Notebooks on your laptop.
-* _Preferred method:_ After cloning open the terminal and run the below command if you are able to do it. Other wise install it manually.
+| Step | Folder | What's in it |
+|---|---|---|
+| 1 | [`Python_programming/`](Python_programming) | Your first line of code, operators, strings, variables, input, if/else, functions, loops, imports, error handling, indexing, data structures |
+| 2 | [`graphs/`](graphs), [`Python_programming/`](Python_programming) (16–23) | Bar, line and box plots, seaborn, plotly, analysis of the course's own student data |
+| 3 | [`numpy/`](numpy), [`pandas/`](pandas) | Arrays, DataFrames, cleaning, wrangling, exploratory data analysis |
+| 4 | [`machine_learning/`](machine_learning) | Linear and polynomial regression, logistic regression, KNN, decision trees, random forest, Naive Bayes, SVM, k-means, a first neural network in Keras |
+| 5 | [`opencv_with_python/`](opencv_with_python) | Image basics with OpenCV |
+| 6 | [`assignments/`](assignments), [`projects/`](projects) | Weekly assignments with solutions, plus small projects |
 
-**How To Make Vir-Enviroment using conda**
-```python
-conda create -n python-chilla python=3.6
+Datasets are in [`data/`](data).
+
+## Running the notebooks
+
+**No install:** open any `.ipynb` file on GitHub and click "Open in Colab", or upload it to [Google Colab](https://colab.research.google.com/).
+
+**On your laptop:**
+
+```bash
+git clone https://github.com/Aliktk/Python_Chilla.git
+cd Python_Chilla
+conda create -n python-chilla python=3.11
 conda activate python-chilla
-```
-Install the required libraries by using folllowing commands.
-```python
-pip install -r /path/to/requirements.txt
+pip install numpy pandas matplotlib seaborn plotly scikit-learn opencv-python jupyter
+jupyter notebook
 ```
 
-# Course Schedule
-The course Started on 1st of New year 2022, Saturday Night on 9.30pm.
-1. Fall 2022 8-week course
-2. Jan 2022 40-days course
-3. **Note:** The Week will be 5 Days in this Chilla
+Some notebooks were written in 2022 against older library versions. If one breaks, open an issue or a PR.
 
-|Week | Mode | Topics|
-|----|----|----|
-|**[Week 1](https://github.com/Aliktk/Python_Chilla/tree/main/Python_hands_on)**| Zoom |  Installation of VS Code, First Line of code, Libraries, Python syntax, intro to control flow including Weekly Workshop. |
-|**[Week 2](https://github.com/Aliktk/Python_Chilla/tree/main/graphs)** | Zoom | Ploting, Graphs, Data aquired, Students data, Different graphs ploting including Weekly Workshop on Github(pro). |
-|**[Week 3](https://github.com/Aliktk/Python_Chilla/tree/main/Python_hands_on)**| Zoom | intro to Pandas and Numpy, Further data structures, control flow, file handling, Vs Code |
-|**[Week 4](https://github.com/Aliktk/Python_Chilla/tree/main/Python_hands_on)**| Zoom | Data wrangling and analysis using Pandas and Numpy. |
-|**[Week 5](https://github.com/Aliktk/Python_Chilla/tree/main/Python_hands_on)**| Zoom | EDA, Data wrangling and analysis II. |
-|**[Week 6](https://github.com/Aliktk/Python_Chilla/tree/main/machine_learning)**| Zoom | Basics of Machine learning Algorithms, Supervised and Un-supervised, Classification, Clustring. |
-|**[Week 7](https://github.com/Aliktk/Python_Chilla/tree/main/cv_with_python_using%20opencv)**| Zoom | Basic OpenCv, Market Yourself, Interview Prepartion, Canva. |
-|**[Week 8]()**| Zoom | Final Resolution of the End Day and Gup Shup :) |
+## Contributing
 
-+ Materials in the repos can be freely with credit and giving start and fork operation.
-+ This Repo will be refine with time.
+Fixes, clearer explanations and updated notebooks are welcome. Open an issue or a pull request.
 
+## License
 
--------------------------
-#### **Materials developed by**
-> **Ali Nawaz**
-
--------------------------
-
-
-
+Code and notebooks are under the [Apache 2.0 License](LICENSE). Course content and videos belong to Codanics and Dr. Muhammad Ammar Tufail. Please credit them if you reuse this material.
